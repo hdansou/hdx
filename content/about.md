@@ -10,6 +10,6 @@ Hello and welcome to my site!
 
 ## A Bit About Me
 
-I like alpacas and I'm a fan of static sites.
+A Test site about Me.
 
 ![Great alpaca picture](https://upload.wikimedia.org/wikipedia/commons/c/c4/Alpaka_33444.jpg)
